@@ -1,0 +1,83 @@
+.fondgris
+{
+	margin: 1em ;
+	background-color: #DCDCDC ; 
+	border: 0.5em #DCDCDC solid ;
+	border-radius: 0.2em ;
+}
+
+.un
+{
+	margin-right: 444em
+	background-color: green ; 
+	border: 0.1em #DCDCDC solid ;
+	border-radius: 1em ;
+}
+
+.blanc 
+{
+	color: white ;
+}
+
+.grandmere
+{
+	text-align: center;
+	margin-top: 10em ;
+}
+
+.coco
+{
+	margin: 1em;
+	background-color: blue ; 
+	border: 0.5em blue solid ;
+	border-radius: 0.2em ;
+	color: white;
+	text-decoration: underline blue ;
+
+}
+
+.droite
+{
+	
+	text-align: right ;
+	
+}
+
+.ligne
+{
+	color: grey ;
+	text-decoration: underline white ;
+}
+
+.marge
+{
+	margin-top: 6em ;
+}
+.ba
+{
+	margin-top: 19em;
+	background-color: #DCDCDC ; 
+	border: 0.5em #DCDCDC solid ;
+}
+
+.baba
+{
+	text-align: left;
+}
+
+.fin 
+{
+	text-align: right;
+
+}
+
+.chian
+{
+	color: black;
+	text-decoration: underline #DCDCDC;
+}
+
+.finfin
+{
+	text-align: left ; 
+}
